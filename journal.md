@@ -1,4 +1,5 @@
 this is my awesome paper written by me
+and my colleague John
 
 introduction
 
