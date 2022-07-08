@@ -7,6 +7,9 @@ this is an important problem i have been working on
 Results
 really cool results
 
+Figures
+awesome figs
+
 References
 
 Smith J. (2020)
