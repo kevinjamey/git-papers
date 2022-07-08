@@ -1,6 +1,8 @@
 this is my awesome paper written by me
 and all of my friends
 
+my affiliation is McGill
+
 introduction
 
 this is an important problem i have been working on
